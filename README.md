@@ -41,5 +41,5 @@ pip install -r requirements.txt
 6- Caso crie uma nova consulta, não esqueça de importar no arquivo main.py e mostrar o resultado usando print
 
 ============ PARA ENTRAR EM CONTATO ============
+
 Linkedin: www.linkedin.com/in/mateus-carmo-da-silva-43675341
-# python-classe-conexao-banco-de-dados
